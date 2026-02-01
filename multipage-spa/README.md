@@ -73,7 +73,7 @@ multipage-spa
 
 ### Home Page
 ![Home](./photos/multipage-1.png)
-![Home](Photos/multipage-1.png)
+![Home](photos/multipage-1.png)
 
 ### Profile Page
 ![Profile](./photos/spa-1.png)
