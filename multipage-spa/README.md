@@ -72,8 +72,12 @@ multipage-spa
 ## 🖼️ Output Screenshots
 
 ### Home Page
+
+
 ![Home](./photos/multipage-1.png)
-![Home](photos/multipage-1.png)
+
+
+
 
 ### Profile Page
 ![Profile](./photos/spa-1.png)
