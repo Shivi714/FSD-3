@@ -1,61 +1,135 @@
-# MultiPage SPA using React (JavaScript)
+# Experiment-1: Basic Client-Side Routing Using React Router
 
-This project is a **Multi-Page Single Page Application (SPA)** developed using **React and JavaScript**.  
-It contains multiple pages like Profile and Dashboard while still working as a single-page application.
+## Unit-3: Implementing Routing in Single Page Applications (SPA)
 
----
-
-## 📌 Features
-
-- Multi-page layout in a Single Page Application
-- Profile page with photo, personal info, projects and internship
-- Dashboard page with skills and LinkedIn section
-- Component-based architecture
-- Simple and clean UI
-- Beginner friendly project
+This experiment demonstrates the implementation of **basic client-side routing** in a **Single Page Application (SPA)** using **React Router**.  
+Routing allows navigation between different pages without reloading the entire web page.
 
 ---
 
-## 📂 Folder Structure
+## 🎯 Aim
 
-multipage-spa  
-│  
-├── photos  
-│   ├── home.png  
-│   ├── profile.png  
-│   └── dashboard.png  
-│  
-├── public  
-├── src  
-│   ├── components  
-│   │   ├── Profile.js  
-│   │   ├── Dashboard.js  
-│   │   └── Navbar.js  
-│   │  
-│   ├── App.js  
-│   ├── index.js  
-│   └── App.css  
-│  
-├── package.json  
-└── README.md  
+To implement basic client-side routing in a Single Page Application using React Router.
 
 ---
 
-## 🖼️ Screenshots
+## 🧰 Software Requirements
 
-### 🏠 Home Page
-![Home Page](./photos/multipage-1.png)
-
-### 👤 Profile Page
-![Profile Page](./photos/multipage-1.png)
-
-### 📊 Dashboard Page
-![Dashboard Page](./photos/multipage-2.png)
+- Node.js  
+- React  
+- React Router DOM  
+- Web Browser  
 
 ---
 
-## 🚀 How To Run Project
+## 📘 Theory
 
-1. Install Node Modules
+Routing in a Single Page Application allows navigation between different views without reloading the page.  
+React Router is a popular library used to handle client-side routing in React applications using components such as:
+
+- BrowserRouter  
+- Routes  
+- Route  
+
+Using React Router improves performance and provides a smooth user experience.
+
+---
+
+## 🧪 Procedure
+
+1. Create a React application using Vite.  
+2. Install react-router-dom package.  
+3. Wrap the main application with BrowserRouter.  
+4. Define routes using Routes and Route components.  
+5. Create separate pages (Profile, Dashboard, Header).  
+6. Navigate between pages without page reload.
+
+---
+
+## 📂 Project Structure
+
+multipage-spa
+│
+├── src
+│ ├── pages
+│ │ ├── Dashboard.jsx
+│ │ ├── Header.jsx
+│ │ └── Profile.jsx
+│ │
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+---
+
+## 🖼️ Output Screenshots
+
+### Home Page
+![Home](./photos/multipage-1.png)
+
+### Profile Page
+![Profile](./photos/spa-1.png)
+
+### Dashboard Page
+![Dashboard](./photos/spa-2.png)
+
+### Navigation Example
+![Navigation](./photos/spa-3.png)
+
+---
+
+## ⚙️ Installation & Execution
+
+Install dependencies:
 ```bash
 npm install
+
+
+Run project:
+
+npm run dev
+
+
+Open in browser:
+
+http://localhost:5173
+
+✅ Result
+
+Basic client-side routing in a Single Page Application using React Router was successfully implemented.
+
+📚 Learning Outcomes
+
+Understanding SPA concept
+
+Implementing routing using React Router
+
+Creating multi-page navigation
+
+Using reusable components
+
+👩‍💻 Author
+
+Shivali
+Computer Science Student
+
+📜 License
+
+This project is for educational purposes only.
+
+
+---
+
+## ✅ After Updating README
+
+```bash
+git add .
+git commit -m "Added experiment README with screenshots"
+git push
