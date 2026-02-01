@@ -44,13 +44,13 @@ multipage-spa
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./photos/multipage1.png)
+![Home Page](./photos/multipage-1.png)
 
 ### 👤 Profile Page
-![Profile Page](./photos/multipage1.png)
+![Profile Page](./photos/multipage-1.png)
 
 ### 📊 Dashboard Page
-![Dashboard Page](./photos/multipage2.png)
+![Dashboard Page](./photos/multipage-2.png)
 
 ---
 
