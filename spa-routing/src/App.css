@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #eef2ff;
+}
+
+.navbar {
+  background-color: #4338ca;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.navbar button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.navbar button:hover {
+  text-decoration: underline;
+}
+
+.page {
+  width: 60%;
+  margin: 80px auto;
+  background: white;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px gray;
+}
+
+.page h1 {
+  color: #4338ca;
+}
