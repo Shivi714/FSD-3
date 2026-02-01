@@ -1,16 +1,75 @@
-# React + Vite
+# 🚀 SPA Routing Using React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React Single Page Application (SPA) demonstrating basic client-side routing using React Router DOM.  
+This project is part of Unit-3: Implementing Routing in Single Page Applications (SPA).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Experiment-1: Basic Client-Side Routing Using React Router
 
-## React Compiler
+### 🎯 Aim
+To implement basic client-side routing in a Single Page Application using React Router.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧰 Software Requirements
+- Node.js  
+- React  
+- React Router DOM  
+- Web Browser  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📖 Theory
+Single Page Applications (SPA) allow users to navigate between multiple views without reloading the page.  
+React Router is a popular library used to handle client-side routing in React applications using components like:
+
+- BrowserRouter  
+- Routes  
+- Route  
+- Link  
+
+This provides faster navigation and better user experience.
+
+---
+
+## 🖼️ Project Screenshots
+
+### 🔹 Home Page
+![Home Page](https://raw.githubusercontent.com/Shivi714/FSD-3/main/spa-routing/screenshots/home.png)
+![Home Pagee](./photos/spa-1.png)
+
+### 🔹 About Page
+![About Page](https://raw.githubusercontent.com/Shivi714/FSD-3/main/spa-routing/screenshots/about.png)
+![About Page](./photos/spa-2.png)
+
+### 🔹 Contact Page
+![Contact Page](https://raw.githubusercontent.com/Shivi714/FSD-3/main/spa-routing/screenshots/contact.png)
+![Contact Page](./photos/spa-3.png)
+
+---
+
+## 📂 Project Structure
+
+spa-routing/
+│  
+├── public/  
+│  
+├── src/  
+│   ├── components/  
+│   │   ├── Home.js  
+│   │   ├── About.js  
+│   │   └── Contact.js  
+│   │  
+│   ├── App.js  
+│   ├── index.js  
+│   └── App.css  
+│  
+├── package.json  
+└── README.md  
+
+---
+
+## ⚙️ Installation Steps
+
+### 1️⃣ Clone the Repository
