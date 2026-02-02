@@ -76,18 +76,21 @@ spa-routing/
 
 ### 1️⃣ Clone the Repository
 
+###**🚀 EXPERIMENT-3.2: MULTI-PAGE SPA USING ROUTING**
 
-🚀 EXPERIMENT-3.2: MULTI-PAGE SPA USING ROUTING
+##**🎯 AIM**
+
+**To create a multi-page Single Page Application (SPA) using client-side routing in React.**
+
+
 🎯 AIM
 
-To create a multi-page Single Page Application (SPA) using client-side routing in React.
+**To implement navigation links in a SPA using React Router's Link component.**
 
-🧭 EXPERIMENT-2: NAVIGATION USING LINK COMPONENT
-🎯 AIM
+---
 
-To implement navigation links in a SPA using React Router's Link component.
 
-🌟 FEATURES
+**🌟 FEATURES**
 
 Multi-page Single Page Application
 
@@ -101,7 +104,8 @@ Reusable Components
 
 Fast & Smooth Navigation
 
-🛠️ TECHNOLOGIES USED
+
+**🛠️ TECHNOLOGIES USED**
 
 React JS
 
@@ -113,7 +117,7 @@ HTML
 
 CSS
 
-📁 FOLDER STRUCTURE
+**📁 FOLDER STRUCTURE**
 project-root/
 │
 ├── multipage-spa/
@@ -132,33 +136,37 @@ project-root/
 │
 └── README.md
 
-⚙️ INSTALLATION & RUN
+---
+
+**##⚙️ INSTALLATION & RUN**
 ▶️ OPEN TERMINAL
 cd multipage-spa
 
-▶️ INSTALL DEPENDENCIES
+**▶️ INSTALL DEPENDENCIES**
 npm install
 
-▶️ RUN PROJECT
+**▶️ RUN PROJECT**
 npm run dev
 
-🖼️ Output Screenshots
-🔹 Profile Page
+---
+
+**##🖼️ Output Screenshots**
+**###🔹 Profile Page**
 ![Profile](./photos/multipage-1.png)
 
-🔹 Dashboard Page
+**###🔹 Dashboard Page**
 ![Dashboard](./photos/multipage-2.png)
 
-🎓 LEARNING OUTCOMES
+**##🎓 LEARNING OUTCOMES**
 
-Understood SPA Architecture
+-Understood SPA Architecture
 
-Learned Client-side Routing
+-Learned Client-side Routing
 
-Implemented Link Navigation
+-Implemented Link Navigation
 
-Built Multi-page React Application
+-Built Multi-page React Application
 
-📌 CONCLUSION
+**##📌 CONCLUSION**
 
 This project demonstrates how to build a multi-page Single Page Application using React Router with smooth and efficient client-side navigation.
