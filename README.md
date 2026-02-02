@@ -76,9 +76,9 @@ spa-routing/
 
 ### 1️⃣ Clone the Repository
 
-###**🚀 EXPERIMENT-3.2: MULTI-PAGE SPA USING ROUTING**
+**#🚀 EXPERIMENT-3.2: MULTI-PAGE SPA USING ROUTING**
 
-##**🎯 AIM**
+**##🎯 AIM**
 
 **To create a multi-page Single Page Application (SPA) using client-side routing in React.**
 
@@ -90,7 +90,7 @@ spa-routing/
 ---
 
 
-**🌟 FEATURES**
+**##🌟 FEATURES**
 
 Multi-page Single Page Application
 
@@ -103,9 +103,9 @@ No Page Reload
 Reusable Components
 
 Fast & Smooth Navigation
+---
 
-
-**🛠️ TECHNOLOGIES USED**
+**##🛠️ TECHNOLOGIES USED**
 
 React JS
 
@@ -116,7 +116,7 @@ JavaScript
 HTML
 
 CSS
-
+--
 **📁 FOLDER STRUCTURE**
 project-root/
 │
@@ -157,6 +157,8 @@ npm run dev
 **###🔹 Dashboard Page**
 ![Dashboard](./photos/multipage-2.png)
 
+---
+
 **##🎓 LEARNING OUTCOMES**
 
 -Understood SPA Architecture
@@ -166,6 +168,7 @@ npm run dev
 -Implemented Link Navigation
 
 -Built Multi-page React Application
+---
 
 **##📌 CONCLUSION**
 
