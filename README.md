@@ -77,43 +77,39 @@ spa-routing/
 ### 1️⃣ Clone the Repository
 
 
-📘 Experiment-3.2: Multi-Page SPA Using Routing
-📌 Aim
 
-To create a multi-page Single Page Application (SPA) using client-side routing in React.
+🚀 Experiment-3.2: Multi-Page SPA Using Routing
+🎯 Aim
 
-🧪 Experiment-2: Navigation Using Link Component
-Aim
+Create a multi-page Single Page Application (SPA) using client-side routing in React.
 
-To implement navigation links in a SPA using React Router's Link component.
+🧭 Experiment-2: Navigation Using Link Component
+🎯 Aim
 
-🚀 Features
+Implement navigation links in a SPA using React Router's Link component.
 
-Multi-page Single Page Application
+🌟 Features
 
-Client-side routing
-
-Navigation using Link component
-
-No page reload
-
-Reusable components
-
-Fast navigation
+✔ Multi-page Single Page Application
+✔ Client-side Routing
+✔ Navigation using Link Component
+✔ No Page Reload
+✔ Reusable Components
+✔ Fast & Smooth Navigation
 
 🛠️ Technologies Used
 
-React JS
+⚛️ React JS
 
-React Router DOM
+🔀 React Router DOM
 
-JavaScript
+🟨 JavaScript
 
-HTML
+🌐 HTML
 
-CSS
+🎨 CSS
 
-📂 Folder Structure
+📁 Folder Structure
 project-root/
 │
 ├── multipage-spa/
@@ -125,28 +121,23 @@ project-root/
 │   │   │
 │   │   ├── App.jsx
 │   │   └── main.jsx
-│   │
+│
 ├── photos/
-│   │   ├── multipage-1.png
-│   │   └── multipage-2.png
+│   ├── multipage-1.png
+│   └── multipage-2.png
 │
 └── README.md
 
-⚙️ Installation & Run
-
-Open terminal
-
+⚙️ Installation & Execution
+1️⃣ Open Terminal
 cd multipage-spa
 
-
-Install dependencies
-
+2️⃣ Install Dependencies
 npm install
 
-
-Run project
-
+3️⃣ Run Project
 npm run dev
+
 
 🖼️ Output Screenshots
 🔹 Profile Page
@@ -155,16 +146,14 @@ npm run dev
 🔹 Dashboard Page
 ![Dashboard](./photos/multipage-2.png)
 
-✅ Learning Outcomes
 
-Understood SPA concept
+🎓 Learning Outcomes
 
-Learned client-side routing
-
-Implemented Link navigation
-
-Created multi-page application
+✔ Understood SPA Architecture
+✔ Learned Client-side Routing
+✔ Implemented Link-based Navigation
+✔ Built Multi-page Application in React
 
 📌 Conclusion
 
-This project demonstrates how to build a multi-page Single Page Application using React Router with smooth client-side navigation.
+This experiment successfully demonstrates the creation of a multi-page Single Page Application using React Router, enabling smooth and fast navigation without reloading the browser.
