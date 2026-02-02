@@ -37,8 +37,8 @@ This provides faster navigation and better user experience.
 ## 🖼️ Project Screenshots
 
 ### 🔹 Home Page
+![Home Pagee](./photos/spa-3.png)
 
-![Home Pagee](./photos/spa-1.png)
 
 ### 🔹 About Page
 
@@ -46,7 +46,8 @@ This provides faster navigation and better user experience.
 
 ### 🔹 Contact Page
 
-![Contact Page](./photos/spa-3.png)
+
+![Contact Page](./photos/spa-1.png)
 
 ---
 
