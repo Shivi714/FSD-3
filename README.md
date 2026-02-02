@@ -1,4 +1,4 @@
-# Experiment-3.2: Basic Client-Side Routing Using React Router
+# Experiment-3.1: Basic Client-Side Routing Using React Router
 # 🚀 SPA Routing Using React Router
 
 A simple React Single Page Application (SPA) demonstrating basic client-side routing using React Router DOM.  
